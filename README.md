@@ -55,7 +55,7 @@ Se houver um erro, a resposta será no formato:
 {
   "error": "Mensagem de erro"
 }
-
+```
 
 
 ## 4. Exemplo de Requisição

@@ -58,7 +58,7 @@ Se houver um erro, a resposta será no formato:
 
 
 
-### 4. Exemplo de Requisição
+## 4. Exemplo de Requisição
 
 ```php
 <?php

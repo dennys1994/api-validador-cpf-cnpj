@@ -1,3 +1,5 @@
+![Api imagem](https://api.cinedsoti.com.br/api.jpg)
+
 # Validador de CPF e CNPJ
 
 Esta API permite validar CPF e CNPJ utilizando PHP. A API pode ser acessada através de endpoints simples que aceitam parâmetros via URL.
